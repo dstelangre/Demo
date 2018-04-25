@@ -5,3 +5,6 @@ New line added
 another new line
 
 new
+1
+2
+3
